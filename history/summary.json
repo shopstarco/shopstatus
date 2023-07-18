@@ -40,9 +40,9 @@
     "url": "https://imgpro.shopstar.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/imgpro.shopstar.co.za.ico",
     "slug": "shopstar-image-processor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 556,
     "timeMonth": 516,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-18": 0
+    }
   },
   {
     "name": "Shopstar CDN",
