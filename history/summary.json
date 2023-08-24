@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.shopstar.co.za.ico",
     "slug": "shopstar-platform",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1342,
     "timeDay": 1231,
     "timeWeek": 1288,
     "timeMonth": 1312,
     "timeYear": 1342,
     "dailyMinutesDown": {
-      "2023-08-24": 1
+      "2023-08-24": 9
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://tools.shopstar.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/tools.shopstar.co.za.ico",
     "slug": "shopstar-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 643,
@@ -35,7 +35,9 @@
     "timeWeek": 699,
     "timeMonth": 666,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-24": 1
+    }
   },
   {
     "name": "Shopstar Image Processor",
@@ -78,9 +80,9 @@
     "url": "https://api.shopstar.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/api.shopstar.co.za.ico",
     "slug": "shopstar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +91,8 @@
     "timeWeek": 1387,
     "timeMonth": 1346,
     "timeYear": 1311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-24": 0
+    }
   }
 ]
