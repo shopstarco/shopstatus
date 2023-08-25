@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1424,
-    "timeDay": 2976,
-    "timeWeek": 1800,
-    "timeMonth": 1461,
-    "timeYear": 1424,
+    "time": 1419,
+    "timeDay": 2942,
+    "timeWeek": 1804,
+    "timeMonth": 1462,
+    "timeYear": 1419,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.shopstar.co.za.ico",
     "slug": "shopstar-tools",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 816,
-    "timeDay": 3826,
+    "uptime": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 810,
+    "timeDay": 3763,
     "timeWeek": 1745,
-    "timeMonth": 953,
-    "timeYear": 816,
+    "timeMonth": 954,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2023-08-24": 22
+      "2023-08-24": 16
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 443,
-    "timeWeek": 545,
+    "time": 520,
+    "timeDay": 364,
+    "timeWeek": 536,
     "timeMonth": 533,
-    "timeYear": 523,
+    "timeYear": 520,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 180,
-    "timeWeek": 271,
-    "timeMonth": 217,
-    "timeYear": 206,
+    "time": 207,
+    "timeDay": 290,
+    "timeWeek": 287,
+    "timeMonth": 225,
+    "timeYear": 207,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.shopstar.co.za.ico",
     "slug": "shopstar-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1476,
-    "timeDay": 4547,
-    "timeWeek": 2436,
-    "timeMonth": 1634,
-    "timeYear": 1476,
-    "dailyMinutesDown": {
-      "2023-08-24": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1472,
+    "timeDay": 4485,
+    "timeWeek": 2455,
+    "timeMonth": 1639,
+    "timeYear": 1472,
+    "dailyMinutesDown": {}
   }
 ]
