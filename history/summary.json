@@ -42,10 +42,10 @@
     "url": "https://imgpro.shopstar.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/imgpro.shopstar.co.za.ico",
     "slug": "shopstar-image-processor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
@@ -53,7 +53,9 @@
     "timeWeek": 527,
     "timeMonth": 532,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-26": 1
+    }
   },
   {
     "name": "Shopstar CDN",
@@ -78,19 +80,19 @@
     "url": "https://api.shopstar.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/api.shopstar.co.za.ico",
     "slug": "shopstar-api",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1610,
     "timeDay": 5675,
     "timeWeek": 3203,
     "timeMonth": 1889,
     "timeYear": 1610,
     "dailyMinutesDown": {
-      "2023-08-26": 11
+      "2023-08-26": 0
     }
   }
 ]
