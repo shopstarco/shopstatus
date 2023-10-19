@@ -4,20 +4,18 @@
     "url": "https://app.shopstar.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/app.shopstar.co.za.ico",
     "slug": "shopstar-platform",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1369,
-    "timeDay": 1378,
-    "timeWeek": 1266,
-    "timeMonth": 1250,
-    "timeYear": 1369,
-    "dailyMinutesDown": {
-      "2023-10-18": 8
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1374,
+    "timeDay": 1515,
+    "timeWeek": 1346,
+    "timeMonth": 1270,
+    "timeYear": 1374,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shopstar Tools",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 711,
-    "timeDay": 813,
-    "timeWeek": 606,
-    "timeMonth": 619,
-    "timeYear": 711,
+    "time": 712,
+    "timeDay": 827,
+    "timeWeek": 657,
+    "timeMonth": 629,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2023-08-24": 16
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 645,
-    "timeWeek": 536,
-    "timeMonth": 546,
-    "timeYear": 513,
+    "time": 514,
+    "timeDay": 639,
+    "timeWeek": 565,
+    "timeMonth": 548,
+    "timeYear": 514,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 68,
-    "timeWeek": 199,
-    "timeMonth": 345,
-    "timeYear": 256,
+    "time": 254,
+    "timeDay": 80,
+    "timeWeek": 183,
+    "timeMonth": 341,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1491,
-    "timeDay": 1317,
-    "timeWeek": 1343,
-    "timeMonth": 1336,
+    "timeDay": 1474,
+    "timeWeek": 1376,
+    "timeMonth": 1347,
     "timeYear": 1491,
     "dailyMinutesDown": {}
   }
