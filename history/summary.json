@@ -78,17 +78,19 @@
     "url": "https://api.shopstar.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/api.shopstar.co.za.ico",
     "slug": "shopstar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1492,
-    "timeDay": 1547,
-    "timeWeek": 1394,
-    "timeMonth": 1355,
-    "timeYear": 1492,
-    "dailyMinutesDown": {}
+    "time": 1487,
+    "timeDay": 1226,
+    "timeWeek": 1364,
+    "timeMonth": 1343,
+    "timeYear": 1487,
+    "dailyMinutesDown": {
+      "2023-10-20": 0
+    }
   }
 ]
