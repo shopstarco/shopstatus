@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1371,
-    "timeDay": 1232,
-    "timeWeek": 1299,
-    "timeMonth": 1281,
+    "timeDay": 1396,
+    "timeWeek": 1335,
+    "timeMonth": 1285,
     "timeYear": 1371,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 710,
-    "timeDay": 512,
-    "timeWeek": 650,
+    "timeDay": 741,
+    "timeWeek": 681,
     "timeMonth": 639,
     "timeYear": 710,
     "dailyMinutesDown": {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
-    "timeDay": 414,
-    "timeWeek": 488,
-    "timeMonth": 527,
+    "timeDay": 569,
+    "timeWeek": 515,
+    "timeMonth": 524,
     "timeYear": 513,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 87,
-    "timeWeek": 120,
+    "time": 249,
+    "timeDay": 136,
+    "timeWeek": 119,
     "timeMonth": 338,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -80,17 +80,15 @@
     "slug": "shopstar-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1471,
-    "timeDay": 1182,
-    "timeWeek": 1307,
-    "timeMonth": 1324,
+    "timeDay": 1265,
+    "timeWeek": 1242,
+    "timeMonth": 1325,
     "timeYear": 1471,
-    "dailyMinutesDown": {
-      "2023-10-22": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
