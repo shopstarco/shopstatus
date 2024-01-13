@@ -6,18 +6,16 @@
     "slug": "shopstar-platform",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1341,
-    "timeDay": 1439,
-    "timeWeek": 1337,
-    "timeMonth": 1352,
-    "timeYear": 1341,
-    "dailyMinutesDown": {
-      "2024-01-12": 7
-    }
+    "time": 1340,
+    "timeDay": 1430,
+    "timeWeek": 1342,
+    "timeMonth": 1343,
+    "timeYear": 1340,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shopstar Tools",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 687,
-    "timeDay": 692,
-    "timeWeek": 775,
-    "timeMonth": 681,
-    "timeYear": 687,
+    "time": 686,
+    "timeDay": 493,
+    "timeWeek": 728,
+    "timeMonth": 664,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2023-08-24": 16
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 518,
-    "timeDay": 518,
-    "timeWeek": 577,
-    "timeMonth": 517,
+    "timeDay": 490,
+    "timeWeek": 585,
+    "timeMonth": 505,
     "timeYear": 518,
     "dailyMinutesDown": {}
   },
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 373,
-    "timeWeek": 220,
+    "time": 225,
+    "timeDay": 138,
+    "timeWeek": 227,
     "timeMonth": 188,
-    "timeYear": 226,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1401,
-    "timeDay": 1105,
-    "timeWeek": 1181,
-    "timeMonth": 1365,
-    "timeYear": 1401,
+    "time": 1400,
+    "timeDay": 964,
+    "timeWeek": 1179,
+    "timeMonth": 1353,
+    "timeYear": 1400,
     "dailyMinutesDown": {
       "2023-10-25": 25
     }
