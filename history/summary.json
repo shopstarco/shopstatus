@@ -4,18 +4,20 @@
     "url": "https://app.shopstar.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/app.shopstar.co.za.ico",
     "slug": "shopstar-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1339,
-    "timeDay": 1175,
-    "timeWeek": 1316,
-    "timeMonth": 1352,
-    "timeYear": 1339,
-    "dailyMinutesDown": {}
+    "time": 1350,
+    "timeDay": 2417,
+    "timeWeek": 1551,
+    "timeMonth": 1420,
+    "timeYear": 1350,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Shopstar Tools",
