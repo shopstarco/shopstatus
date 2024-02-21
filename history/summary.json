@@ -62,9 +62,9 @@
     "slug": "shopstar-cdn",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 139,
@@ -72,7 +72,7 @@
     "timeMonth": 248,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-02-21": 0
+      "2024-02-21": 10
     }
   },
   {
