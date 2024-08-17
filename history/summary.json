@@ -6,9 +6,9 @@
     "slug": "shopstar-platform",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 2018,
     "timeDay": 3101,
@@ -16,7 +16,6 @@
     "timeMonth": 5185,
     "timeYear": 2104,
     "dailyMinutesDown": {
-      "2024-08-16": 9,
       "2024-05-19": 706,
       "2024-03-14": 39
     }
