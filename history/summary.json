@@ -25,10 +25,10 @@
     "url": "https://tools.shopstar.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/tools.shopstar.co.za.ico",
     "slug": "shopstar-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 661,
@@ -36,16 +36,18 @@
     "timeWeek": 695,
     "timeMonth": 684,
     "timeYear": 639,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 1
+    }
   },
   {
     "name": "Shopstar Image Processor",
     "url": "https://imgpro.shopstar.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/imgpro.shopstar.co.za.ico",
     "slug": "shopstar-image-processor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +56,9 @@
     "timeWeek": 512,
     "timeMonth": 549,
     "timeYear": 521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Shopstar CDN",
