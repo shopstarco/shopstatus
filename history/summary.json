@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2037,
-    "timeDay": 10833,
-    "timeWeek": 3405,
-    "timeMonth": 3473,
-    "timeYear": 2150,
+    "time": 2045,
+    "timeDay": 5556,
+    "timeWeek": 3847,
+    "timeMonth": 3373,
+    "timeYear": 2159,
     "dailyMinutesDown": {
       "2024-05-19": 706,
       "2024-03-14": 39
@@ -26,19 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.shopstar.co.za.ico",
     "slug": "shopstar-tools",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 661,
-    "timeDay": 561,
-    "timeWeek": 677,
-    "timeMonth": 680,
+    "timeDay": 696,
+    "timeWeek": 711,
+    "timeMonth": 675,
     "timeYear": 639,
-    "dailyMinutesDown": {
-      "2024-09-03": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shopstar Image Processor",
@@ -47,18 +45,16 @@
     "slug": "shopstar-image-processor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 518,
-    "timeDay": 562,
-    "timeWeek": 528,
-    "timeMonth": 552,
-    "timeYear": 521,
-    "dailyMinutesDown": {
-      "2024-09-03": 15
-    }
+    "time": 522,
+    "timeDay": 1342,
+    "timeWeek": 727,
+    "timeMonth": 598,
+    "timeYear": 525,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shopstar CDN",
@@ -72,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 219,
-    "timeDay": 140,
-    "timeWeek": 198,
-    "timeMonth": 207,
+    "timeDay": 215,
+    "timeWeek": 213,
+    "timeMonth": 206,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2024-02-21": 408
@@ -91,10 +87,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1462,
-    "timeDay": 1088,
-    "timeWeek": 2127,
-    "timeMonth": 1669,
+    "time": 1461,
+    "timeDay": 1416,
+    "timeWeek": 1166,
+    "timeMonth": 1664,
     "timeYear": 1436,
     "dailyMinutesDown": {
       "2024-05-19": 706,
