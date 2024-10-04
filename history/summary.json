@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2262,
-    "timeDay": 985,
-    "timeWeek": 2734,
-    "timeMonth": 5017,
-    "timeYear": 2482,
+    "time": 2260,
+    "timeDay": 1232,
+    "timeWeek": 2707,
+    "timeMonth": 4904,
+    "timeYear": 2481,
     "dailyMinutesDown": {
       "2024-05-19": 706,
       "2024-03-14": 39
@@ -27,18 +27,16 @@
     "slug": "shopstar-tools",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
-    "timeDay": 1592,
-    "timeWeek": 869,
-    "timeMonth": 725,
+    "timeDay": 1637,
+    "timeWeek": 904,
+    "timeMonth": 723,
     "timeYear": 651,
-    "dailyMinutesDown": {
-      "2024-10-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shopstar Image Processor",
@@ -47,18 +45,16 @@
     "slug": "shopstar-image-processor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 544,
-    "timeWeek": 519,
-    "timeMonth": 579,
-    "timeYear": 526,
-    "dailyMinutesDown": {
-      "2024-10-03": 6
-    }
+    "time": 523,
+    "timeDay": 657,
+    "timeWeek": 532,
+    "timeMonth": 531,
+    "timeYear": 525,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shopstar CDN",
@@ -72,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 219,
-    "timeDay": 169,
-    "timeWeek": 218,
+    "timeDay": 214,
+    "timeWeek": 230,
     "timeMonth": 213,
     "timeYear": 219,
     "dailyMinutesDown": {
@@ -91,10 +87,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1496,
-    "timeDay": 1054,
-    "timeWeek": 2351,
-    "timeMonth": 1991,
+    "time": 1495,
+    "timeDay": 1230,
+    "timeWeek": 1450,
+    "timeMonth": 1985,
     "timeYear": 1490,
     "dailyMinutesDown": {
       "2024-05-19": 706,
