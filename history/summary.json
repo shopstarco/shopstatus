@@ -29,7 +29,7 @@
     "status": "up",
     "uptime": "98.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.85%",
+    "uptimeWeek": "59.62%",
     "uptimeMonth": "70.39%",
     "uptimeYear": "97.53%",
     "time": 666,
@@ -58,7 +58,7 @@
     "status": "up",
     "uptime": "98.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.95%",
+    "uptimeWeek": "59.72%",
     "uptimeMonth": "70.41%",
     "uptimeYear": "97.53%",
     "time": 539,
@@ -106,9 +106,9 @@
     "slug": "shopstar-api",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1538,
     "timeDay": 1908,
@@ -116,7 +116,6 @@
     "timeMonth": 1575,
     "timeYear": 1584,
     "dailyMinutesDown": {
-      "2024-12-08": 6,
       "2024-10-06": 45,
       "2024-05-19": 706
     }
