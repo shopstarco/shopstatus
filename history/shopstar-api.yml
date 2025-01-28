@@ -1,7 +1,7 @@
 url: https://api.shopstar.co.za/
-status: up
-code: 200
-responseTime: 1560
-lastUpdated: 2025-01-27T23:00:51.694Z
+status: down
+code: 502
+responseTime: 2366
+lastUpdated: 2025-01-28T04:00:31.753Z
 startTime: 2023-07-03T13:36:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
