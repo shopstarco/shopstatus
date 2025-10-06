@@ -5,10 +5,6 @@ repo: shopstatus # The name of this repository
 sites:
   - name: Shopstar Platform
     url: https://app.shopstar.co.za
-  - name: Shopstar Tools
-    url: https://tools.shopstar.co.za
-  - name: Shopstar Image Processor
-    url: https://imgpro.shopstar.co.za/
   - name: Shopstar CDN
     url: https://cdn2.shopstar.co.za/DevnnSl7qd2utisbU05pMugSOw3yH-pE1TMA91CIlgc/rs:fill:540:540:1/plain/https://assets.shopstar.co.za/uploads/product_image/product_image/display_a5403f09-ec11-4e0f-b5b3-c42a9b682d52.jpg
   - name: Shopstar API
