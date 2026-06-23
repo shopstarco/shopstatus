@@ -42,21 +42,21 @@
     "url": "https://cdn2.shopstar.co.za/DevnnSl7qd2utisbU05pMugSOw3yH-pE1TMA91CIlgc/rs:fill:540:540:1/plain/https://assets.shopstar.co.za/uploads/product_image/product_image/display_a5403f09-ec11-4e0f-b5b3-c42a9b682d52.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/cdn2.shopstar.co.za.ico",
     "slug": "shopstar-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 583,
-    "timeDay": 6253,
-    "timeWeek": 2721,
-    "timeMonth": 1858,
-    "timeYear": 708,
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.93%",
+    "time": 586,
+    "timeDay": 4739,
+    "timeWeek": 2609,
+    "timeMonth": 1853,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2026-05-04": 39,
       "2026-05-19": 268,
-      "2026-06-23": 0
+      "2026-06-23": 80
     }
   },
   {
