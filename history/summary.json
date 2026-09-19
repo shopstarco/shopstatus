@@ -4,17 +4,17 @@
     "url": "https://app.shopstar.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/app.shopstar.co.za.ico",
     "slug": "shopstar-platform",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.62%",
-    "time": 1814,
-    "timeDay": 1780,
-    "timeWeek": 1829,
-    "timeMonth": 2237,
-    "timeYear": 1928,
+    "time": 1815,
+    "timeDay": 1674,
+    "timeWeek": 1796,
+    "timeMonth": 2216,
+    "timeYear": 1927,
     "dailyMinutesDown": {
       "2025-09-24": 41,
       "2025-10-15": 331,
@@ -34,7 +34,7 @@
       "2026-06-05": 74,
       "2026-06-21": 81,
       "2026-07-20": 18,
-      "2026-09-19": 0
+      "2026-09-19": 28
     }
   },
   {
@@ -65,17 +65,17 @@
     "url": "https://api.shopstar.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/api.shopstar.co.za.ico",
     "slug": "shopstar-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
-    "time": 1659,
-    "timeDay": 2695,
-    "timeWeek": 3563,
-    "timeMonth": 3055,
-    "timeYear": 1775,
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.66%",
+    "time": 1663,
+    "timeDay": 2673,
+    "timeWeek": 3449,
+    "timeMonth": 3042,
+    "timeYear": 1778,
     "dailyMinutesDown": {
       "2025-09-24": 41,
       "2025-10-15": 331,
@@ -88,7 +88,7 @@
       "2026-06-06": 438,
       "2026-06-05": 65,
       "2026-06-21": 81,
-      "2026-09-19": 0
+      "2026-09-19": 28
     }
   }
 ]
